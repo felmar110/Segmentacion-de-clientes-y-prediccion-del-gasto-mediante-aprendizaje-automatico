@@ -12,9 +12,9 @@ supervisado.
 
 Este proyecto implementa:
 
--   📊 K-Means para segmentación de clientes\
--   🤖 SVM para clasificación del nivel de gasto\
--   🧠 Red Neuronal (Keras) para predicción de gasto\
+-   📊 K-Means para segmentación de clientes
+-   🤖 SVM para clasificación del nivel de gasto
+-   🧠 Red Neuronal (Keras) para predicción de gasto
 -   📈 Regresión Lineal como modelo base comparativo
 
 Se realiza análisis exploratorio, preprocesamiento avanzado, reducción
@@ -26,11 +26,11 @@ F1-score y matriz de confusión.
 # 📂 Estructura del Proyecto
 
     ├── DataBases/
-    │   └── 0. Different_stores_data_V2.csv
+    │   └── 0. Different_stores_data_V2.csv-
     │
     ├── Kmeans.py
     ├── Red_neuronal_y_regresion.py
-    ├── Informe_teorico_.pdf
+    ├── Informe_teorico_resultados.pdf
     └── README.md
 
 ------------------------------------------------------------------------
@@ -156,7 +156,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
 Ejecutar segmentación:
 
 ``` bash
-python V2_Kmeans.py
+python Final_Kmeans.py
 ```
 
 Ejecutar predicción:
