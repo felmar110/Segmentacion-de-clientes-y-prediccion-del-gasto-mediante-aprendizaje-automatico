@@ -28,16 +28,20 @@ F1-score y matriz de confusión.
     ├── DataBases/
     │   └── 0. Different_stores_data_V2.csv
     │
+    ├── Docs/
+    │   └── Resultados.pdf
+    │ 
+    ├── src/
+    │   └── Kmeans.py
+    │   └── Red_neuronal_y_regresion.py
+    │ 
     ├── Images/
     │   └── Cluster-Visualization-for-the-2D-3D-k-Means-Algorithm.png
-    │        └── Data_with_Kmeans.png
-    │        └── Metrics.png
-    │        └── Neural_network_architecture.png
-    │        └── sualization-of-the-results-of-the-principal-component-analysis-PCA-A.png
+    │   └── Data_with_Kmeans.png
+    │   └── Metrics.png
+    │   └── Neural_network_architecture.png
+    │   └── sualization-of-the-results-of-the-principal-component-analysis-PCA-A.png
     │
-    ├── Kmeans.py
-    ├── Red_neuronal_y_regresion.py
-    ├── Resultados.pdf
     └── README.md
 
 ------------------------------------------------------------------------
