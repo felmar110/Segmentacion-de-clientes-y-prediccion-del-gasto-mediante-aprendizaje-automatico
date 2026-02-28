@@ -77,8 +77,7 @@ aplicó PCA reduciendo a 2 dimensiones.
 -   category y total_profit muestran mayor separación.
 -   Aumentar clusters subdivide grupos pero no mejora dispersión
     significativamente.
-
-   <p align="center">
+<p align="center">
   <img src="Images/Data_with_Kmeans.png" width="600">
 </p>
 
