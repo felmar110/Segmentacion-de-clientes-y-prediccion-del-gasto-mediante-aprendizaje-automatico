@@ -26,11 +26,18 @@ F1-score y matriz de confusión.
 # 📂 Estructura del Proyecto
 
     ├── DataBases/
-    │   └── 0. Different_stores_data_V2.csv-
+    │   └── 0. Different_stores_data_V2.csv
+    │
+    ├── Images/
+    │   └── Cluster-Visualization-for-the-2D-3D-k-Means-Algorithm.png
+    │        └── Data_with_Kmeans.png
+    │        └── Metrics.png
+    │        └── Neural_network_architecture.png
+    │        └── sualization-of-the-results-of-the-principal-component-analysis-PCA-A.png
     │
     ├── Kmeans.py
     ├── Red_neuronal_y_regresion.py
-    ├── Informe_teorico_resultados.pdf
+    ├── Resultados.pdf
     └── README.md
 
 ------------------------------------------------------------------------
@@ -169,4 +176,4 @@ python Red_neuronal.py
 
 # 👨‍💻 Autor
 
--   Andres Felipe Marcillo
+-   Andres Felipe Marcillo Meneses
