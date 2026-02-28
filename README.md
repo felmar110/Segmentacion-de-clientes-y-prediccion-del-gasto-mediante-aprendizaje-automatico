@@ -80,6 +80,14 @@ aplicó PCA reduciendo a 2 dimensiones.
 <p align="center">
   <img src="Images/Data_with_Kmeans.png" width="600">
 </p>
+<p align="center">
+  <img src="Images/Cluster-Visualization-for-the-2D-3D-k-Means-Algorithm.png" width="600">
+</p>
+<p align="center">
+  <img src="Images/sualization-of-the-results-of-the-principal-component-analysis-PCA-A.png" width="600">
+</p>
+
+
 
 ------------------------------------------------------------------------
 
@@ -106,6 +114,10 @@ SVC(kernel='linear', class_weight='balanced')
 
 Conclusión: SVM no fue efectiva debido al desbalance de clases.
 
+<p align="center">
+  <img src="Images/Metrics.png" width="600">
+</p>
+
 ------------------------------------------------------------------------
 
 # 🧠 Parte C --- Predicción con Red Neuronal
@@ -119,6 +131,10 @@ Arquitectura:
 -   Optimizador Adam
 -   EarlyStopping (patience=10)
 -   69 épocas óptimas
+
+<p align="center">
+  <img src="Images/Neural_network_architecture.png" width="600">
+</p>
 
 ------------------------------------------------------------------------
 
